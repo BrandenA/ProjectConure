@@ -1,0 +1,19 @@
+{
+  "name": "itsabirdslife",
+  "version": "1.0.0",
+  "description": "Website for It's A Birds Life.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandenA/ProjectConure.git"
+  },
+  "author": "Branden Morin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandenA/ProjectConure/issues"
+  },
+  "homepage": "https://github.com/BrandenA/ProjectConure#readme"
+}

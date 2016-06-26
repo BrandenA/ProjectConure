@@ -1,0 +1,17 @@
+{
+  "name": "itsabirdslife",
+  "description": "Website for It's A Birds Life.",
+  "main": "index.php",
+  "authors": [
+    "Branden Morin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/BrandenA/ProjectConure",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
