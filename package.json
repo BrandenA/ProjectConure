@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/BrandenA/ProjectConure/issues"
   },
-  "homepage": "https://github.com/BrandenA/ProjectConure#readme"
+  "homepage": "https://github.com/BrandenA/ProjectConure#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-order": "^1.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-typescript": "^2.13.6",
+    "gulp-uglify": "^1.5.4"
+  }
 }

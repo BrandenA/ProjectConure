@@ -10,9 +10,9 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="assets/css/styles.css">
+        <link rel="stylesheet" href="build/assets/css/styles.css">
 
-        <script src="assets/js/scripts.js"></script>
+        <script src="build/assets/js/scripts.js"></script>
     </head>
     <body>
     </body>
